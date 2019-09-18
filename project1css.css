@@ -1,0 +1,77 @@
+#logo{
+    display: block;
+    padding: 109px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#submitbutton{
+    display: inline-block;
+    margin: 13px;
+    margin-right:1px;
+    
+    position: relative;
+    left: 40.4%;
+    bottom: 115px;
+}
+
+    
+
+#searchbox{
+    display: block;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+    position: relative;
+    bottom: 120px;
+    
+}
+
+#about{
+    display: inline-block;
+
+    position: relative;
+    bottom: 510px;
+    left: 19px;
+}
+
+#store{
+    display: inline-block;
+
+    position: relative;
+    bottom: 510px;
+    left: 38px;
+}
+
+#gmail{
+    display: inline-block;
+
+    position: relative;
+    bottom: 510px;
+    left: 1009px;
+}
+
+#images{
+    display: inline-block;
+
+    position: relative;
+    bottom: 510px;
+    left: 1030px;
+}
+
+#signin{
+    display: inline-block;
+
+    position: relative;
+    bottom: 510px;
+    left: 1069px;
+}
+
+a:link{
+    color: blue
+}
+
+a:visited{
+    color: purple;
+}
